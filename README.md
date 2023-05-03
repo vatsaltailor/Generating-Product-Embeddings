@@ -10,4 +10,4 @@ Machine Learning models do not understand anything but numbers. What if you want
 
 One way to go about this is to generate a product embedding, and there are many proven methods to do so, 
 
-Demonstrated here is a novel way to generate product embeddings using Deep Learning models!
+Demonstrated here is a novel way to generate product embeddings using Deep Learning models, trained on Amazon product data.
